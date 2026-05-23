@@ -1,0 +1,27 @@
+# User-private and third-party visual assets. The public Skill ships rules, not proprietary images.
+travel-scrapbook-itinerary/assets/character-references/*
+!travel-scrapbook-itinerary/assets/character-references/.gitkeep
+travel-scrapbook-itinerary/assets/generated-samples/*
+!travel-scrapbook-itinerary/assets/generated-samples/.gitkeep
+travel-scrapbook-itinerary/assets/source-itineraries/*
+!travel-scrapbook-itinerary/assets/source-itineraries/.gitkeep
+travel-scrapbook-itinerary/assets/style-references/*
+!travel-scrapbook-itinerary/assets/style-references/.gitkeep
+travel-scrapbook-itinerary/references/test-runs/*
+!travel-scrapbook-itinerary/references/test-runs/.gitkeep
+travel-scrapbook-itinerary/references/test-case-nanning-chongzuo-beihai.md
+
+# Private local overlays and generated outputs.
+travel-scrapbook-itinerary/private/*
+!travel-scrapbook-itinerary/private/.gitkeep
+travel-scrapbook-itinerary/outputs/*
+!travel-scrapbook-itinerary/outputs/.gitkeep
+*.local.yaml
+
+# Secrets and local runtime noise.
+.env
+.env.*
+*.log
+__pycache__/
+.DS_Store
+Thumbs.db
