@@ -8,6 +8,8 @@
 
 下面是实际生成示例图，展示这个 Skill 的路线可视化手账效果。
 
+![南宁崇左北海旅行流程手账拼图示例](docs/images/nanning-chongzuo-beihai-collage-demo.jpg)
+
 ![上海到苏州旅行流程手账示例](docs/images/shanghai-to-suzhou-scrapbook.png)
 
 完整示例见：[examples/suzhou-one-night-demo.md](examples/suzhou-one-night-demo.md)
