@@ -1,6 +1,6 @@
 # Example: Shanghai To Suzhou One-Night Scrapbook
 
-This is a public-safe demo. It does not include private character IP, real hotel bookings, personal itinerary screenshots, or third-party reference images.
+This is a generated demo image for the Shanghai to Suzhou one-night route.
 
 ## User Input
 
@@ -41,6 +41,6 @@ Reason:
 | P1-IMG5 | 金鸡湖夜景 | evening route anchor |
 | P1-IMG6 | 酒店 / 行李 | rest and luggage node |
 
-## Public-Safe Demo Image
+## Demo Image
 
-![Suzhou one-night scrapbook demo](../docs/images/suzhou-one-night-demo.svg)
+![Shanghai to Suzhou scrapbook demo](../docs/images/shanghai-to-suzhou-scrapbook.png)

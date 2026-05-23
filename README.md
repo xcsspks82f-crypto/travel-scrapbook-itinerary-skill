@@ -6,9 +6,9 @@
 
 ## 示例效果
 
-下面是公开安全示例图：不含私人角色 IP、不含真实酒店地址、不含真实行程截图，只展示这个 Skill 的路线可视化手账效果。
+下面是实际生成示例图，展示这个 Skill 的路线可视化手账效果。
 
-![苏州一晚旅行流程手账示例](docs/images/suzhou-one-night-demo.svg)
+![上海到苏州旅行流程手账示例](docs/images/shanghai-to-suzhou-scrapbook.png)
 
 完整示例见：[examples/suzhou-one-night-demo.md](examples/suzhou-one-night-demo.md)
 
